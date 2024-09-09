@@ -1,4 +1,4 @@
-# Spatio-temporal-intensity-analysis
+# Spatio-temporal intensity analysis
 
 The present code allows you to extract the intensity of a image sequence.
 The main feature is subdivision of each image in N x M matrix of your region
