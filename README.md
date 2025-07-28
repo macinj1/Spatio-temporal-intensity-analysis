@@ -30,7 +30,16 @@ now index coordinates;
 - fft_peaks_locs: contains the wave numbers of the most prominent modes 
 above the threshold; 
 - fft_peaks_ints: contains the magnitude of the peaks in the previous
-variable. 
+variable.
+
+The following [video](https://youtu.be/vm7L2GWlSoI) shows an evaluation of the code:
+
+<p align="center">
+  <a href="https://youtu.be/vm7L2GWlSoI" title="Redirect to homepage">
+    <img src="https://github.com/macinj1/Spatio-temporal-intensity-analysis/blob/main/figs/image_intensity.png" width = "500">
+  </a>
+</p>
+
 
 ## Reference 
 
